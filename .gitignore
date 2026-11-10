@@ -1,0 +1,16 @@
+# game files (the player's own copy) and everything made from them
+game/
+gamedata/
+original/
+src/gen/
+re/*/ghidra/
+re/*/proj/
+re/*/ghidra_headless.log
+build/
+shots/
+tests/
+*.exe
+*.log
+*.ini
+*_registry.txt
+tools/__pycache__/
